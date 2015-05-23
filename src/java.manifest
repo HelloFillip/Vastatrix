@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8?>
+<manifest version="0.0.1">
+  <resource src="http://download.oracle.com/otn-pub/java/jdk/8u45-b14/jdk-8u45-linux-x64.tar.gz" 
+            version="8" 
+            update="45" 
+            build="14" 
+            type="jdk" 
+            platform="linux" 
+            architecture="x64" />
+</manifest>
