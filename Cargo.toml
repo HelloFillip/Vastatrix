@@ -1,0 +1,8 @@
+[package]
+
+name = "vastatrix"
+version = "0.0.1"
+authors = [ "Phil J. Laszkowicz <phil@fillip.pro>" ]
+
+[dependencies]
+hyper = "0.5.0"
